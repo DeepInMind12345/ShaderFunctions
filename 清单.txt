@@ -1,5 +1,10 @@
 1，展示角色卡片说话时的效果表现
+    参考特效链接：
+    https://www.cgjoy.com/forum.php?mod=viewthread&tid=111078
+    https://blog.csdn.net/nannan0811666/article/details/79033180
+    https://www.cnblogs.com/xiaozefeng/p/Unity3D_Shader_Light_Sword.html
+
 2，角色卡片切换出来时的效果表现
 3，角色卡片切换隐藏消失时的效果表现
-
 4，角色对话时，文本框字幕的文字弹出表现。
+
